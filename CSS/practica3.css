@@ -1,0 +1,51 @@
+.caja-principal {
+
+    height: 630px;
+    width: 630px;
+    background: aqua;
+    border: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+
+.caja {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.one {
+    position: relative;
+    left: auto;
+    background: yellowgreen;
+
+}
+
+.two {
+    position: relative;
+    left: 210px;
+    bottom: 210px;
+background: violet;
+}
+
+.three {
+    position: relative;
+    bottom: 210px;
+    background: tomato;
+}
+
+.four {
+    position: relative;
+    left: 430px;
+    bottom: 200px;
+    background:sienna;
+}
+
+.five {
+    position: relative;
+    left: 210px;
+    background: #0a2af7;
+    bottom: 630px;
+}
