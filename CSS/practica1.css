@@ -1,0 +1,48 @@
+body{
+min-height: 500px;
+min-width: 500px;
+background-color: gold;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+div{
+
+height: 50%;
+width: 50%;
+
+}
+.bigBox{
+background: plum;
+height: 50%;
+width: 50%;
+padding: 20px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.smallBox{
+background: rgb(26, 181, 228);
+height: 30%;
+width:  30%;
+margin: 5px;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+
+}
+
+.smallBox h1 {
+    font-style: oblique;
+    color: darkviolet;
+    text-align: center;
+    
+}
+
+
+
